@@ -1,2 +1,3 @@
 # sql
-Repo for helpful SQLs I've found.
+
+Repo for helpful SQLs I've written.
